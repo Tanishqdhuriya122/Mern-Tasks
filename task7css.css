@@ -1,0 +1,35 @@
+.main1{
+    width: 900px;
+    height: 520px;
+    background-color: #D20062;
+    margin-left: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main2{
+    width: 690px;
+    height: 470px;
+    background-color:  #D6589F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+form{
+    color: white;
+    font-size: 25px;
+
+}
+input{
+    font-size: 18px;
+    margin-bottom: 13px;
+}
+.reg{
+    background-color: white;
+    color: black;
+    font-size: 28px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
